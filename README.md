@@ -5,7 +5,11 @@
 ## 最初の作り方
 
 ```
-$ npx create-react-app my-app
+$ npx create-react-app react-tutorial
+$ cd react-tutorial
+
+・・・編集・・・
+
 $ npm start
 ```
 
